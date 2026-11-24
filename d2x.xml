@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="bungtt5/android_device_samsung_d2x" path="device/samsung/d2x" remote="github" revision="lineage-23.2" />
+  <project name="bungtt5/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" remote="github" revision="lineage-23.2" />
+  <project name="bungtt5/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="github" revision="lineage-23.2" />
+  <project name="bungtt5/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-23.2" />
+  <project name="bungtt5/proprietary_vendor_samsung_d2x" path="vendor/samsung/d2x" remote="github" revision="lineage-23.2" />
+  <project name="bungtt5/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" remote="github" revision="lineage-23.2" />
+</manifest>
